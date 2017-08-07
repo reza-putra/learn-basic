@@ -22,6 +22,8 @@ minggu pertama ini kita akan mengenal soal git & nodejs
 
 ## Tugas Minggu Pertama
 
+buka terminal kalian dan jalankan perintah di bawah
+
 1. Buat Akun pada github.com karena kita akan menggunakan github sebagai sarana pembelajaraan kita nanti
 
 - Cloning repo ini dengan perintah `git clone github.com/evo3cx/learn-basic`
