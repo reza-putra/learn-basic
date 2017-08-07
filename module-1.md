@@ -52,4 +52,4 @@ buka terminal kalian dan jalankan perintah di bawah
 
 ### Diskusi
 
-jika kalian mengalami masalah dalam mengerjakaan tugas atau ada beberapa catatan saya yang keliru silahkan buat [issue](https://github.com/evo3cx/learn-basic/issues) dan masukan masalah kalian.
+jika kalian mengalami masalah dalam mengerjakaan tugas atau ada beberapa catatan saya yang keliru silahkan, tambahakan [issue](https://github.com/evo3cx/learn-basic/issues) dan masukan masalah kalian.
