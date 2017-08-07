@@ -46,3 +46,8 @@ minggu pertama ini kita akan mengenal soal git & nodejs
     git push -u {nama-kalian}`
 
 -  lalu refresh halaman ini, ini adalah lagkah pertama kalian untuk dalam menggunakan git dan github
+
+
+### Diskusi
+
+jika kalian mengalami masalah dalam mengerjakaan tugas atau ada beberapa catatan saya yang keliru silahkan buat [issue](https://github.com/evo3cx/learn-basic/issues) dan masukan masalah kalian.
