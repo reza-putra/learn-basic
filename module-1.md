@@ -26,7 +26,7 @@ buka terminal kalian dan jalankan perintah di bawah
 
 1. Buat Akun pada github.com karena kita akan menggunakan github sebagai sarana pembelajaraan kita nanti
 
-- Cloning repo ini dengan perintah `git clone github.com/evo3cx/learn-basic`
+- Cloning repo ini dengan perintah `git clone https://github.com/evo3cx/learn-basic.git`
 
 - maka folder learn-basic akan terdownload di komputer kalian, masuk ke dalam folder dengan perintah `cd learn-basic`
 
