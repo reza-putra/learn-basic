@@ -34,43 +34,44 @@ buka terminal kalian dan jalankan perintah di bawah
 
 - buat branch atas nama kalian dengan perintah `git checkhout -b {nama-kalian}`. ini akan menjalankan git untuk membuat branch baru dengan nama kalian. kita menggunakan branch sebagai version control code kalian.
 
-e.g:``` git checkout -b reza ```
+  e.g:``` git checkout -b reza ```
 
 - check jika branch sudah terbuat dengan benar `git branch`, ini akan memunculkan list dari branch
   baca lebih lengkap soal branch [disini](https://git-scm.com/book/en/v1/Git-Branching-What-a-Branch-Is).
 
 - buat folder dengan nama kalian di dalam learn-basic `mkdir {nama-kalian}`
 
-e.g: ``` mkdir reza ```
+  e.g: ``` mkdir reza ```
 
 - pindah ke folder dengan nama kalian dengan perintah `cd {nama-kalian}`
 
-e.g: ``` cd reza ```
+  e.g: ``` cd reza ```
 
 - membuat npm package, jalankan perintah `npm init` lalu isikan form yang di minta oleh npm, setelah selesai ketik yes untuk memastikan bahwa data yang ada isi telah benar
 
 
 - setelah kalian selesai berhasil membuat package baru sekarang waktunya untuk menambahkan code kalian ke repository ini.
 
-jalankan perintah beriku secara berurutan
-`git add .`
+- jalankan perintah beriku secara berurutan
 
-`git commit -m "module-1 minggu pertama"`
+    `git add .`
 
-`git push origin {nama-kalian}`
+    `git commit -m "module-1 minggu pertama"`
 
-penjelasaan:
-- `git add .`
+    `git push origin {nama-kalian}`
 
-  ini akan menambahkan data yang baru kalian tambahakan ke dalam repo ini
+  penjelasaan:
+  - `git add .`
 
-- `git commit -m "module-1 minggu pertama"`
+    ini akan menambahkan data yang baru kalian tambahakan ke dalam repo ini
 
-  kalian memberikan pesan bahwa data yang data yang baru kalian tambahakn adalah ` "module-1 minggu pertama"`
+  - `git commit -m "module-1 minggu pertama"`
 
-- `git push origin {nama-kalian}`
+    kalian memberikan pesan bahwa data yang data yang baru kalian tambahakn adalah ` "module-1 minggu pertama"`
 
-  `git push` adalah perintah untuk mengirimkan perubahan yang kalian buat ke server github.com, `{nama-kalian}` adalah branch yang tadi kita buat di awal.
+  - `git push origin {nama-kalian}`
+
+    `git push` adalah perintah untuk mengirimkan perubahan yang kalian buat ke server github.com, `{nama-kalian}` adalah branch yang tadi kita buat di awal.
 
 
 
