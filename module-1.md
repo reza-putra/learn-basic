@@ -31,16 +31,19 @@ buka terminal kalian dan jalankan perintah di bawah
 - maka folder learn-basic akan terdownload di komputer kalian, masuk ke dalam folder dengan perintah `cd learn-basic`
 
 - buat branch atas nama kalian dengan perintah `git checkhout -b {nama-kalian}`. ini akan menjalankan git untuk membuat branch baru dengan nama kalian. kita menggunakan branch sebagai version control code kalian.
-``` git checkout -b reza ```
+
+e.g:``` git checkout -b reza ```
 
 - check jika branch sudah terbuat dengan benar `git branch`, ini akan memunculkan list dari branch
   baca lebih lengkap soal branch [disini](https://git-scm.com/book/en/v1/Git-Branching-What-a-Branch-Is).
 
 - buat folder dengan nama kalian di dalam learn-basic `mkdir {nama-kalian}`
-``` mkdir reza ```
+
+e.g: ``` mkdir reza ```
 
 - pindah ke folder dengan nama kalian dengan perintah `cd {nama-kalian}`
-``` cd reza ```
+
+e.g: ``` cd reza ```
 
 - jika sudah lalu initial npm dengan perintah `npm install`
 
