@@ -45,6 +45,8 @@ e.g: ``` mkdir reza ```
 
 e.g: ``` cd reza ```
 
+- membuat npm package, jalankan perintah `npm init` lalu masukan detail pacakge sesuai dengan nama anda
+
 - jika sudah lalu initial npm dengan perintah `npm install`
 
 - lalu jalankan perintah ini di terminal `echo "##learn basic " >> first.md`
