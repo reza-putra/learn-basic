@@ -22,6 +22,8 @@ minggu pertama ini kita akan mengenal soal git & nodejs
 
 ## Tugas Minggu Pertama
 
+minggu ini tugas awal kita adalah membuat sebuah package nodejs menggunakan npm dengan menggunakan data diri kita sebagai detail dari pacakge tersebut.
+
 buka terminal kalian dan jalankan perintah di bawah
 
 1. Buat Akun pada github.com karena kita akan menggunakan github sebagai sarana pembelajaraan kita nanti
@@ -47,13 +49,32 @@ e.g: ``` cd reza ```
 
 - membuat npm package, jalankan perintah `npm init` lalu isikan form yang di minta oleh npm, setelah selesai ketik yes untuk memastikan bahwa data yang ada isi telah benar
 
-- lalu jalankan perintah ini di terminal `echo "##learn basic " >> first.md`
 
-- lalu jalankan perintah ini
-    `git add first.md &&
-    git push -u {nama-kalian}`
+- setelah kalian selesai berhasil membuat package baru sekarang waktunya untuk menambahkan code kalian ke repository ini.
 
--  lalu refresh halaman ini, ini adalah lagkah pertama kalian untuk dalam menggunakan git dan github
+jalankan perintah beriku secara berurutan
+`git add .`
+
+`git commit -m "module-1 minggu pertama"`
+
+`git push origin {nama-kalian}`
+
+penjelasaan:
+- `git add .`
+
+  ini akan menambahkan data yang baru kalian tambahakan ke dalam repo ini
+
+- `git commit -m "module-1 minggu pertama"`
+
+  kalian memberikan pesan bahwa data yang data yang baru kalian tambahakn adalah ` "module-1 minggu pertama"`
+
+- `git push origin {nama-kalian}`
+
+  `git push` adalah perintah untuk mengirimkan perubahan yang kalian buat ke server github.com, `{nama-kalian}` adalah branch yang tadi kita buat di awal.
+
+
+
+lalu refresh halaman ini, ini adalah lagkah pertama kalian untuk dalam menggunakan git dan github
 
 
 ### Diskusi
